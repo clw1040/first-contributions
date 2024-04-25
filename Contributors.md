@@ -7,6 +7,7 @@
 - Aamish Ahmad Beg
 - Jack Hunter
 - Arjun K
+- [Casey W](https://github.com/clw1040)
 - [ku1d33p](https://github.com/ku1d33p)
 - [Bigmancozmo](https://github.com/Bigmancozmo)
 - [Dev DXS](https://github.com/Divyanshu-DXS)
